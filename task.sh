@@ -1,0 +1,1 @@
+pwd > ~/code/update/1.txt
